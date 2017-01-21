@@ -1,0 +1,16 @@
+#paginatitel {
+    background-color:darkolivegreen;
+    color:white;
+}
+body {
+    background-color:yellow;
+    background-image:
+        url('../afbeeldingen/sem/sem graffitie.jpg');
+    font-family:sans-serif;
+    padding:20px;
+    color:white;
+}
+.speciaal {
+    background-color:chocolate;
+}
+a[href*="scratch.edu"]
